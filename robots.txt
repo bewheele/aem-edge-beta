@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-edge-beta--bewheele.aem.live/sitemap.xml
